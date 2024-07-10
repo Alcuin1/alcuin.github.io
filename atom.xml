@@ -336,9 +336,9 @@
     <category term="博客搭建" scheme="https://alcuin1.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
     
-    <category term="hexo" scheme="https://alcuin1.github.io/tags/hexo/"/>
-    
     <category term="blog" scheme="https://alcuin1.github.io/tags/blog/"/>
+    
+    <category term="hexo" scheme="https://alcuin1.github.io/tags/hexo/"/>
     
   </entry>
   
